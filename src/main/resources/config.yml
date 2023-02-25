@@ -1,0 +1,13 @@
+messages:
+  prefix: '&f(&b!&f) '
+settings:
+  groups:
+    admin:
+      - '&7Hello &c&lAdmin'
+      - ' &a+ 500&7 money'
+    moder:
+      - '&7Hello &9&lModer'
+      - ' &a+ 50&7 money'
+    vip:
+      - '&7Hello &e&lViP'
+      - ' &a+ 5&7 money'

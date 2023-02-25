@@ -1,0 +1,5 @@
+main: ru.entryset.join.messages.main.Main
+name: EntryJoinMessage
+version: 1.0
+api-version: 1.0
+author: EntrySet
